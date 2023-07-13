@@ -16,7 +16,7 @@
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
         "laravel/pint": "^1.0",
-        "laravel/sail": "^1.18",
+        "laravel/sail": "^1.23",
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^7.0",
         "phpunit/phpunit": "^10.1",
@@ -27,9 +27,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Gsantoscomp\\SharedVetDb\\": "libs/shared-vet-db/src/",
-            "Gsantoscomp\\SharedVetDb\\Factories\\": "libs/shared-vet-db/src/database/factories",
-            "Gsantoscomp\\SharedVetDb\\Seeders\\": "libs/shared-vet-db/src/database/seeders"
+            "Gsantoscomp\\SharedVetDb\\": "libs/shared-vet-db/src/"
         }
     },
     "autoload-dev": {
